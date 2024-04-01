@@ -15,3 +15,9 @@ Windows:
 '''sh
 dir
 '''
+
+Удаление файлп в Windows:
+'''sh
+del <filename>
+'''
+
